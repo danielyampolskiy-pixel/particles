@@ -1,0 +1,3 @@
+{
+ "schemaVersion":1,"id":"particle_toggle","version":"${version}","name":"Particle Toggle","description":"Client-side particle category toggles","environment":"client", "entrypoints":{"client":["com.example.particletoggle.ParticleToggle"]},"mixins":["particle-toggle.mixins.json"],"depends":{"fabricloader":">=0.18.0","minecraft":"1.21.11","java":">=21"}
+}
